@@ -1,0 +1,8 @@
+#phpstorm
+.idea
+
+vendor
+
+*.log
+*.cache
+*.lock
